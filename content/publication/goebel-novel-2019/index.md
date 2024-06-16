@@ -1,17 +1,37 @@
 ---
 title: A Novel Algorithm for Improving the Diagnostic Accuracy of Prehospital ST-Elevation
   Myocardial Infarction
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Mat Goebel
 - Florin Vaida
 - Christopher Kahn
 - J. Joelle Donofrio
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
 date: '2019-09-01'
-publishDate: '2024-06-15T15:55:00.484001Z'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2024-06-16T01:38:36.353114Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - article-journal
+
+# Publication name and optional abbreviated publication name.
 publication: '*Prehospital and Disaster Medicine*'
+publication_short: ''
+
 doi: 10.1017/S1049023X19004849
+
 abstract: 'Introduction: ST-segment elevation myocardial infarction (STEMI) is a time-sensitive
   entity that has been shown to benefit from prehospital diagnosis by electrocardiogram
   (ECG). Current computer algorithms with binary decision making are not accurate
@@ -41,8 +61,47 @@ abstract: 'Introduction: ST-segment elevation myocardial infarction (STEMI) is a
   is required, using this tiered algorithmic approach in prehospital ECGs could lead
   to changes in CCL activation and decreased requirements for physician overread.
   This may have significant clinical and quality implications.'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 links:
 - name: URL
   url: 
     https://www.cambridge.org/core/product/identifier/S1049023X19004849/type/journal_article
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
