@@ -55,6 +55,11 @@ education:
     date_start: 2022-07-01
     date_end: 2023-06-30
 
+  - area: Certificate in Clinical and Translational Research
+    institution: Tufts University
+    date_start: 2022-07-01
+    date_end: 2023-06-30
+
   - area: Emergency Medicine Residency
     institution: UMass Chan Baystate
     date_start: 2019-07-01
