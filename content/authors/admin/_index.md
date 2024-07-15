@@ -35,6 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/nerdymedic
+  - icon: brands/youtube
+    url: https://www.youtube.com/@nerdymedic
   - icon: brands/github
     url: https://github.com/nerdymedic
   - icon: brands/linkedin
