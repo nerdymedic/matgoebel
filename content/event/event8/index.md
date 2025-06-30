@@ -1,14 +1,14 @@
 ---
-title: Pacemaker and ICD Review
+title: Prehospital Diagnosis of ST-segment elevated myocardial infarction
 
-event: UMass Chan - Baystate EM Grand Rounds
+event: Utah Valley University's 3rd Annual Emergency Services and Disaster Conference
 event_url: 
 
-location: Baystate Medical Center
+location: Utah Valley University
 address:
   street: 
-  city: Springfield
-  region: MA
+  city: Orem
+  region: UT
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-08-17
+date: 2014-04-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWkdPVXpYSDQzWG8
 url_video: 
 
 ---

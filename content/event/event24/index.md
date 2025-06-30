@@ -1,14 +1,14 @@
 ---
-title: 2015 Pre-hospital Research Update
+title: Cardiac Arrest - ED Perspective
 
-event: Intermountain Healthcare EMS Conference
-event_url: 
+event: Western New England Acute Cardiology Conference
+event_url: https://education.baystatehealth.org/content/8th-annual-western-new-england-acute-cardiology-conference-0
 
-location: Intermountain Medical Center
+location: Virtual Event
 address:
   street: 
-  city: Murray
-  region: UT
+  city: Springfield
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2016-04-01
+date: 2021-10-13
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJRlNpakVmZ01Ld2c
-url_video: https://www.youtube.com/watch?v=OPfIDD5eWa8
+url_slides: https://docs.google.com/document/d/1LBXBN82ZVfboterkbB5gQVWYbeVtC6Zyrw56EysroY0/edit
+url_video: https://www.youtube.com/watch?v=7_a3gh46mfU
 
 ---

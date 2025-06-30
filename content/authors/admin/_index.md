@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Director, EMS Program and Clinical Response Team
+role: EMS Medical Director
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -90,12 +90,16 @@ education:
     summary: Magna Cum Laude
 
 work:
+  - position: EMS Medical Director
+    company_name: Mercy Medical Center
+    date_start: 2026-07-13
+    date_end: ''
   - position: Assistant Director, EMS Program and Clinical Response Team
     company_name: Mercy Medical Center
     company_url: ''
     company_logo: ''
     date_start: 2024-08-05
-    date_end: ''
+    date_end: 2026-07-12
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -173,4 +177,4 @@ awards:
 
 ## About Me
 
-Mat Goebel is an emergency medicine physician, fellowship trained in research and EMS, at Mercy Medical Center. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.
+Mat Goebel is a board-certified emergency medicine physician, fellowship trained in research and EMS, at Mercy Medical Center. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.

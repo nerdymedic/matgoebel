@@ -1,14 +1,14 @@
 ---
-title: Best Practices for STEMI care at Intermountain Medical Center
+title: ECPR / ECLS
 
-event: STEMI Committee Meeting
-event_url: 
+event: 51st Annual Samuel D. Plotkin Cardiovascular Symposium
+event_url: https://education.baystatehealth.org/content/51st-annual-samuel-d-plotkin-cardiovascular-symposium#group-tabs-node-course-default1
 
-location: Intermountain Medical Center
+location: Virtual Event
 address:
   street: 
-  city: Murray
-  region: UT
+  city: Virtual Event
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2013-04-01
+date: 2022-09-13
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -39,6 +39,6 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: 
-url_video: 
+url_video: https://youtu.be/e87g8e6ItBU
 
 ---

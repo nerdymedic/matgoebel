@@ -1,14 +1,14 @@
 ---
-title: When All Else Fails - Perimortem C-Section
+title: NSTEMIs that need the cath lab now
 
-event: Washington University School of Medicine Steven R. Hall Trauma Symposium
-event_url: https://cme.wustl.edu/index.cfm?do=pln.viewActivity&plannerID=6794
+event: Intermountain Healthcare EMS Conference
+event_url: 
 
-location: Virtual Event
+location: Intermountain Medical Center
 address:
   street: 
-  city: Virtual Event
-  region: MO
+  city: Murray
+  region: UT
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-10-20
+date: 2016-04-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 
-url_video: 
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJOS1zNGx0ODV3UW8
+url_video: https://www.youtube.com/watch?v=2jv00CvY-0Y
 
 ---

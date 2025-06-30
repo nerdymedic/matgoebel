@@ -1,14 +1,14 @@
 ---
-title: What’s new in Pre-hospital STEMI
+title: Intraosseous Access Site Does Not Change Rates of Return Of Spontaneous Circulation in Pre-hospital Cardiac Arrest
 
-event: STEMI Committee Meeting
+event: National Association of EMS Physicians
 event_url: 
 
-location: Intermountain Medical Center
+location: JW Marriott Tampa Water Street
 address:
   street: 
-  city: Murray
-  region: UT
+  city: Tampa
+  region: FL
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2012-04-01
+date: 2023-01-26
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJYnhQQm1kVTRrTm8
+url_slides: https://docs.google.com/presentation/d/1DzGKMUMgmxuRuX6_HDVU0fRijd0WF1Rj?rtpof=true&usp=drive_fs
 url_video: 
 
 ---

@@ -1,14 +1,14 @@
 ---
-title: Out of Hospital Cardiac Arrest - ED perspective
+title: Best Practices for STEMI care at Intermountain Medical Center
 
-event: Western New England Acute Cardiology Conference
-event_url: https://education.baystatehealth.org/content/9th-annual-western-new-england-acute-cardiology-conference#group-tabs-node-course-default2
+event: STEMI Committee Meeting
+event_url: 
 
-location: Basketball Hall of Fame
+location: Intermountain Medical Center
 address:
   street: 
-  city: Springfield
-  region: MA
+  city: Murray
+  region: UT
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-10-26
+date: 2013-04-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/file/d/1TVaNpZWG603n5sqwNe_FsmYhAyba9Auy/view?usp=sharing
-url_video: https://youtu.be/55fvxo-sG5k
+url_slides: 
+url_video: 
 
 ---

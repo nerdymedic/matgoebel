@@ -1,14 +1,14 @@
 ---
-title: A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction
+title: When All Else Fails - Perimortem C-Section
 
-event: Social Media and Critical Care
-event_url: 
+event: Washington University School of Medicine Steven R. Hall Trauma Symposium
+event_url: https://cme.wustl.edu/index.cfm?do=pln.viewActivity&plannerID=6794
 
-location: McCormick Place
+location: Virtual Event
 address:
   street: 
-  city: Chicago
-  region: IL
+  city: Virtual Event
+  region: MO
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2015-06-25
+date: 2021-10-20
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJZ1g4c1VCenNMM2c
+url_slides: 
 url_video: 
 
 ---

@@ -1,14 +1,14 @@
 ---
-title: EKG Case Review - Bradycardia
+title: Killer EKGs (other than STEMI)
 
-event: UMass Chan - Baystate EM Grand Rounds
+event: Intermountain Healthcare EMS Conference
 event_url: 
 
-location: Baystate Medical Center
+location: Intermountain Medical Center
 address:
   street: 
-  city: Springfield
-  region: MA
+  city: Murray
+  region: UT
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-06-01
+date: 2015-05-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 
-url_video: 
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJeElzYVd1X0hxT1k
+url_video: https://www.youtube.com/watch?v=pbWcjapgpOA
 
 ---

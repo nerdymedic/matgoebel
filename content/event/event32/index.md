@@ -1,14 +1,14 @@
 ---
-title: EKG Pearls and Pitfalls in the ED
+title: EKG Case Review - Ischemia
 
-event: Emergency Nurse’s Association Salt Lake City Chapter
+event: UMass Chan - Baystate EM Grand Rounds
 event_url: 
 
-location: Intermountain Medical Center
+location: Baystate Medical Center
 address:
   street: 
-  city: Murray
-  region: UT
+  city: Springfield
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2012-04-01
+date: 2023-02-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=1YZJ51O6Z9G57JF_mGXWlwQagw-4hq3Uw
+url_slides: 
 url_video: 
 
 ---

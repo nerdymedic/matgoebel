@@ -1,14 +1,14 @@
 ---
-title: Surviving Suicide - coping with the silent epidemic
+title: Getting Better at EMS EKGs Part 2
 
-event: California  ACEP
+event: 
 event_url: 
 
-location: Marina del Rey Marriott
+location: Baystate Medical Center
 address:
   street: 
-  city: Marina Del Rey
-  region: CA
+  city: Springfield
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-09-07
+date: 2021-04-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=1kdBxyg3DZLUWzYafB1B9dpUaCUNn-K1l
-url_video: 
+url_slides: 
+url_video: https://www.youtube.com/watch?v=Sy2sRaI4sNw
 
 ---

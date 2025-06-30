@@ -1,22 +1,22 @@
 ---
-title: Getting Better EKGs in the ED
+title: EMS Medical Management Conference
 
 event: 
 event_url: 
 
-location: Baystate Medical Center
+location: Granville Fire Department
 address:
   street: 
-  city: Springfield
+  city: Granville
   region: MA
   postcode: 
-  country: Untied States
+  country: United States
 
 summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-01
+date: 2023-08-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -39,6 +39,6 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: 
-url_video: https://www.youtube.com/watch?v=Wh2p7pwIzPk&t=1s
+url_video: 
 
 ---

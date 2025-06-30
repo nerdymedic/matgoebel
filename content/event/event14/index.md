@@ -1,14 +1,14 @@
 ---
-title: A coordinated social media strategy to aid The Match
+title: Surviving Suicide - coping with the silent epidemic
 
-event: SAEM NERDS
-event_url: https://www.accelevents.com/e/NERDS21/portal/schedule
+event: California  ACEP
+event_url: 
 
-location: Virtual Event
+location: Marina del Rey Marriott
 address:
   street: 
-  city: Virtual Event
-  region: MA
+  city: Marina Del Rey
+  region: CA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-07
+date: 2018-09-07
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=14FMY8M0gkMV-wiGlt4dG9k6z5JTx8HzT
-url_video: https://youtu.be/N7_H2AEEduU
+url_slides: https://drive.google.com/open?id=1kdBxyg3DZLUWzYafB1B9dpUaCUNn-K1l
+url_video: 
 
 ---

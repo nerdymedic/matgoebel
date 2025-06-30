@@ -1,10 +1,10 @@
 ---
-title: EMS Pre-Activation
+title: Tachycardias
 
-event: Western New England Acute Cardiology Conference
-event_url: https://education.baystatehealth.org/content/10th-annual-western-new-england-acute-cardiology-conference
+event: UMass Chan - Baystate EM Grand Rounds
+event_url: 
 
-location: Basketball Hall of Fame
+location: Baystate Medical Center
 address:
   street: 
   city: Springfield
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-10-12
+date: 2023-08-09
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/file/d/1AbNebnuoWrA4CKhfUROtBqVYPmxoqL98/view?usp=share_link
-url_video: https://youtu.be/5djnUYCqrFM
+url_slides: 
+url_video: https://youtu.be/Slyj27nKTdg
 
 ---

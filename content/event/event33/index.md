@@ -1,14 +1,14 @@
 ---
-title: STEMI Pearls and Pitfalls
+title: EKGs - What Every Intern Needs to Know
 
-event: Department In-service
+event: 
 event_url: 
 
-location: South Salt Lake Fire Department
+location: Baystate Medical Center
 address:
   street: 
-  city: South Salt Lake City
-  region: UT
+  city: Springfield
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2012-02-01
+date: 2023-03-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJQlVVVUdxdGgzSHM
+url_slides: 
 url_video: 
 
 ---

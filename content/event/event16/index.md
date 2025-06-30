@@ -1,13 +1,13 @@
 ---
-title: Getting Better at EMS EKGs Part 2
+title: NSTEMIs that need the cath lab now!
 
-event: 
-event_url: 
+event: Controversies and Consensus in Emergency Medicine
+event_url: http://www.controversies-and-consensus.com/
 
-location: Baystate Medical Center
+location: Marriott West Springfield
 address:
   street: 
-  city: Springfield
+  city: West  Springfield
   region: MA
   postcode: 
   country: United States
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-01
+date: 2020-08-31
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 
-url_video: https://www.youtube.com/watch?v=Sy2sRaI4sNw
+url_slides: https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing
+url_video: https://www.youtube.com/watch?v=e3RKE7KHYIU
 
 ---

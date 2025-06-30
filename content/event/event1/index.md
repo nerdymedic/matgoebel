@@ -1,14 +1,14 @@
 ---
-title: Tachycardias
+title: STEMI Pearls and Pitfalls
 
-event: UMass Chan - Baystate EM Grand Rounds
+event: Department In-service
 event_url: 
 
-location: Baystate Medical Center
+location: South Salt Lake Fire Department
 address:
   street: 
-  city: Springfield
-  region: MA
+  city: South Salt Lake City
+  region: UT
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-08-09
+date: 2012-02-01
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 
-url_video: https://youtu.be/Slyj27nKTdg
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJQlVVVUdxdGgzSHM
+url_video: 
 
 ---

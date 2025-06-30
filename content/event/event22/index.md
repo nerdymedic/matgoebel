@@ -1,14 +1,14 @@
 ---
-title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients
+title: A coordinated social media strategy to aid The Match
 
-event: American College of Emergency Physicians' Scientific Assembly
-event_url: 
+event: SAEM NERDS
+event_url: https://www.accelevents.com/e/NERDS21/portal/schedule
 
-location: Walter E. Washington Convention Center
+location: Virtual Event
 address:
   street: 
-  city: Washington
-  region: DC
+  city: Virtual Event
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-10-29
+date: 2021-04-07
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83
-url_video: 
+url_slides: https://drive.google.com/open?id=14FMY8M0gkMV-wiGlt4dG9k6z5JTx8HzT
+url_video: https://youtu.be/N7_H2AEEduU
 
 ---

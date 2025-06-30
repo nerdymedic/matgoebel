@@ -1,14 +1,14 @@
 ---
-title: STEMI Pearls and Pitfalls
+title: Out of Hospital Cardiac Arrest - ED perspective
 
-event: Department In-service
-event_url: 
+event: Western New England Acute Cardiology Conference
+event_url: https://education.baystatehealth.org/content/9th-annual-western-new-england-acute-cardiology-conference#group-tabs-node-course-default2
 
-location: Sandy City Fire Department
+location: Basketball Hall of Fame
 address:
   street: 
-  city: Sandy City Fire Department
-  region: UT
+  city: Springfield
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2013-01-01
+date: 2022-10-26
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
-url_video: 
+url_slides: https://drive.google.com/file/d/1TVaNpZWG603n5sqwNe_FsmYhAyba9Auy/view?usp=sharing
+url_video: https://youtu.be/55fvxo-sG5k
 
 ---

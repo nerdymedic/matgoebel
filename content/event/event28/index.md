@@ -1,14 +1,14 @@
 ---
-title: Code STEMI Train the Trainer
+title: Pacemaker and ICD Review
 
-event: Department In-service
+event: UMass Chan - Baystate EM Grand Rounds
 event_url: 
 
-location: Unified Fire Authority
+location: Baystate Medical Center
 address:
   street: 
-  city: Murray
-  region: UT
+  city: Springfield
+  region: MA
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2013-12-01
+date: 2022-08-17
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
+url_slides: 
 url_video: 
 
 ---

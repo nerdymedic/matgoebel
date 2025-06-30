@@ -1,14 +1,14 @@
 ---
-title: EKG Tape Review - Toxicology
+title: A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction
 
-event: UMass Chan - Baystate EM Grand Rounds
+event: Social Media and Critical Care
 event_url: 
 
-location: Baystate Medical Center
+location: McCormick Place
 address:
   street: 
-  city: Springfield
-  region: MA
+  city: Chicago
+  region: IL
   postcode: 
   country: United States
 
@@ -16,7 +16,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-02-09
+date: 2015-06-25
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -38,7 +38,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJZ1g4c1VCenNMM2c
 url_video: 
 
 ---
