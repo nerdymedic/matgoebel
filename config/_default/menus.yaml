@@ -16,6 +16,8 @@ main:
   - name: Posts
     url: /#posts
     weight: 13
+  - name: CV
+    url: /uploads/cv.pdf
   # - name: Experience
   #   url: experience/
   #   weight: 20
