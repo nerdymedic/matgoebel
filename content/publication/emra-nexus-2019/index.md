@@ -3,7 +3,7 @@ title: Nexus C-Spine Journal Club
 authors:
 - ' EMRA'
 date: '2019-10-01'
-publishDate: '2024-06-16T13:56:43.071470Z'
+publishDate: '2025-06-30T00:44:26.455266Z'
 publication_types:
 - manuscript
 links:

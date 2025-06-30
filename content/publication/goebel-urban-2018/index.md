@@ -9,7 +9,7 @@ authors:
 - Jodie Pierce
 - J. Joelle Donofrio
 date: '2018-10-01'
-publishDate: '2024-06-16T13:56:42.981887Z'
+publishDate: '2025-06-30T00:44:26.417026Z'
 publication_types:
 - article-journal
 publication: '*Prehospital Emergency Care*'
@@ -28,15 +28,15 @@ abstract: 'AbstractBackground: Left ventricular assist devices (LVADs) are used 
   assessments, and interventions. Emergency department and hospital outcomes were
   retrieved separately.Resul...'
 tags:
-- heart failure
 - emergency medical services
+- CHF
+- CHF
+- ventricular assist device
+- heart failure
+- heart-assist devices
+- Heart-assist devices
 - LVAD
 - ventricular assist device
-- heart-assist devices
-- CHF
-- CHF
-- ventricular assist device
-- Heart-assist devices
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/10903127.2018.1532475

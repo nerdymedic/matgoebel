@@ -8,7 +8,7 @@ authors:
 - Taylor Ratcliff
 - Mat Goebel
 date: '2024-01-01'
-publishDate: '2024-06-16T13:56:43.155925Z'
+publishDate: '2025-06-30T00:44:26.475487Z'
 publication_types:
 - article-journal
 publication: '*Prehospital Emergency Care*'

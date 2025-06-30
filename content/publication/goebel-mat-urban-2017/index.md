@@ -3,7 +3,7 @@ title: An Urban Fire Department’s Experience with Left Ventricular Assist Devi
 authors:
 - Mat Goebel
 date: '2017-10-01'
-publishDate: '2024-06-16T13:56:43.046211Z'
+publishDate: '2025-06-30T00:44:26.442287Z'
 publication_types:
 - manuscript
 ---

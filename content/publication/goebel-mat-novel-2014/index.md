@@ -4,7 +4,7 @@ title: A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardia
 authors:
 - Mat Goebel
 date: '2014-04-01'
-publishDate: '2024-06-16T13:56:43.034536Z'
+publishDate: '2025-06-30T00:44:26.435938Z'
 publication_types:
 - manuscript
 ---

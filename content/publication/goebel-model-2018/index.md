@@ -7,7 +7,7 @@ authors:
 - Greg Snow
 - Joseph Bledsoe
 date: '2018-07-01'
-publishDate: '2024-06-16T13:56:42.989721Z'
+publishDate: '2025-06-30T00:44:26.424556Z'
 publication_types:
 - article-journal
 publication: '*Journal of Electrocardiology*'

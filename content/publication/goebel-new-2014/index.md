@@ -9,7 +9,7 @@ authors:
 - Amal Mattu
 - William J Brady
 date: '2014-03-01'
-publishDate: '2024-06-16T13:56:43.103399Z'
+publishDate: '2025-06-30T00:44:26.471642Z'
 publication_types:
 - article-journal
 publication: '*The American journal of emergency medicine*'
@@ -30,8 +30,8 @@ tags:
 - Male
 - Middle Aged
 - Myocardial Infarction
-- 'Myocardial Infarction: physiopathology'
 - 'Myocardial Infarction: diagnosis'
+- 'Myocardial Infarction: physiopathology'
 links:
 - name: URL
   url: http://www.ncbi.nlm.nih.gov/pubmed/24176590

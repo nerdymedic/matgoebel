@@ -9,7 +9,7 @@ authors:
 - Edward Castillo
 - James Dunford
 date: '2018-05-01'
-publishDate: '2024-06-16T13:56:42.996841Z'
+publishDate: '2025-06-30T00:44:26.428277Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Emergency Medicine*'

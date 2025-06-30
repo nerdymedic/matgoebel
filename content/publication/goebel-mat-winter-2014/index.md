@@ -3,7 +3,7 @@ title: De Winter T Wave
 authors:
 - Mat Goebel
 date: '2014-04-01'
-publishDate: '2024-06-16T13:56:43.052066Z'
+publishDate: '2025-06-30T00:44:26.445406Z'
 publication_types:
 - manuscript
 publication: '*Life in the Fast Lane*'

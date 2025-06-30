@@ -7,7 +7,7 @@ authors:
 - Jodie Pierce
 - J. Joelle Donofrio
 date: '2019-07-01'
-publishDate: '2024-06-16T13:56:43.011882Z'
+publishDate: '2025-06-30T00:44:26.401692Z'
 publication_types:
 - article-journal
 publication: '*Prehospital Emergency Care*'

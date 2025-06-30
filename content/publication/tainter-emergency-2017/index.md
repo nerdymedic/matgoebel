@@ -16,7 +16,7 @@ authors:
 - Eric D. Adler
 - Raghu Seethala
 date: '2017-12-01'
-publishDate: '2024-06-16T13:56:42.972255Z'
+publishDate: '2025-06-30T00:44:26.421096Z'
 publication_types:
 - article-journal
 publication: '*Internal and Emergency Medicine*'

@@ -7,7 +7,7 @@ authors:
 - Christopher Kahn
 - J. Joelle Donofrio
 date: '2019-09-01'
-publishDate: '2024-06-16T13:56:43.020250Z'
+publishDate: '2025-06-30T00:44:26.408289Z'
 publication_types:
 - article-journal
 publication: '*Prehospital and Disaster Medicine*'

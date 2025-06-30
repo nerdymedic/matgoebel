@@ -5,7 +5,7 @@ authors:
 - Mat Goebel
 - Joseph Bledsoe
 date: '2019-03-01'
-publishDate: '2024-06-16T13:56:43.095792Z'
+publishDate: '2025-06-30T00:44:26.467438Z'
 publication_types:
 - article-journal
 publication: '*The Western Journal of Emergency Medicine*'

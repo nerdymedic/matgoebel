@@ -3,7 +3,7 @@ title: 2014 Prehospital/EMS articles of the Year
 authors:
 - Mat Goebel
 date: '2015-03-01'
-publishDate: '2024-06-16T13:56:43.083445Z'
+publishDate: '2025-06-30T00:44:26.461402Z'
 publication_types:
 - manuscript
 publication: '*Prehospital and Retrieval Medicine*'

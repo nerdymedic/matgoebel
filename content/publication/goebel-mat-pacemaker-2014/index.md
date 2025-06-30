@@ -3,7 +3,7 @@ title: 'Pacemaker Panic #2'
 authors:
 - Mat Goebel
 date: '2014-04-01'
-publishDate: '2024-06-16T13:56:43.065334Z'
+publishDate: '2025-06-30T00:44:26.452084Z'
 publication_types:
 - manuscript
 publication: '*Life in the Fast Lane*'

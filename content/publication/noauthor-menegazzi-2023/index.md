@@ -2,7 +2,7 @@
 title: 'The Menegazzi Scientific Sessions: Research Abstracts from the 2023 National
   Association of EMS Physicians Annual Meeting'
 date: '2023-01-01'
-publishDate: '2024-06-16T13:56:43.110780Z'
+publishDate: '2025-06-30T00:44:26.501464Z'
 publication_types:
 - article-journal
 publication: '*Prehospital Emergency Care*'

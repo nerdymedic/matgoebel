@@ -14,7 +14,7 @@ authors:
 - Stephen Sanko
 - Nichole Bosson
 date: '2023-12-01'
-publishDate: '2024-06-16T13:56:43.140967Z'
+publishDate: '2025-06-30T00:44:26.483655Z'
 publication_types:
 - article-journal
 publication: '*Prehospital and Disaster Medicine*'
@@ -44,12 +44,12 @@ abstract: 'Introduction:Early detection of ST-segment elevation myocardial infar
   can have significant clinical and quality implications for Emergency Medical Services
   (EMS) systems.'
 tags:
-- emergency department
 - Emergency Medical Services
-- percutaneous coronary intervention
 - electrocardiogram
-- ST-segment elevation myocardial infarction
 - ECG
+- percutaneous coronary intervention
+- ST-segment elevation myocardial infarction
+- emergency department
 - area under the receiver operator curve
 - cardiac catheterization lab
 - diagnostic accuracy
