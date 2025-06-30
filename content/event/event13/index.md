@@ -1,5 +1,5 @@
 ---
-title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients
+title: An Urban Fire Department's Experience with Left Ventricular Assist Device Patients
 
 event: American College of Emergency Physicians' Scientific Assembly
 event_url: 

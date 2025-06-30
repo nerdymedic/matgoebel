@@ -1,5 +1,5 @@
 ---
-title: Cardiac Arrest Medical Management Conference: Defibrillation and Post-ROSC
+title: Cardiac Arrest Medical Management Conference - Defibrillation and Post-ROSC
 
 event: 
 event_url: 

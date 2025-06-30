@@ -1,5 +1,5 @@
 ---
-title: What’s new in Pre-hospital STEMI
+title: What's new in Pre-hospital STEMI
 
 event: STEMI Committee Meeting
 event_url: 

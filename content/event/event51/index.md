@@ -1,5 +1,5 @@
 ---
-title: Cardiac Arrest Medical Management Conference: Airway and Compressions
+title: Cardiac Arrest Medical Management Conference - Airway and Compressions
 
 event: 
 event_url: 

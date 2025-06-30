@@ -1,5 +1,5 @@
 ---
-title: Research 201: Research Logistics
+title: Research 201 - Research Logistics
 
 event: UMass Chan - Baystate EMS Conference
 event_url: 

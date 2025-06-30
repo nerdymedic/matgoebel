@@ -1,5 +1,5 @@
 ---
-title: Trauma Medical Management Conference: Primary and Secondary Survey
+title: Trauma Medical Management Conference - Primary and Secondary Survey
 
 event: 
 event_url: 

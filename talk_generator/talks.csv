@@ -1,7 +1,7 @@
 abstract,city,country,postcode,region,street,date,event,event_url,location,projects,publishDate,summary,tags,title,url_code,url_pdf,url_slides,url_video
 ,South Salt Lake City,United States,,UT,,2/1/12,Department In-service,,South Salt Lake Fire Department,,,,,STEMI Pearls and Pitfalls,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJQlVVVUdxdGgzSHM,
 ,Provo,United States,,UT,,2/1/12,Faculty In-service,,Utah Fire Rescue Academy,,,,,STEMI Pearls and Pitfalls,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJSWJZWEljeWh0SlU,
-,Murray,United States,,UT,,4/1/12,STEMI Committee Meeting,,Intermountain Medical Center,,,,,What’s new in Pre-hospital STEMI,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJYnhQQm1kVTRrTm8,
+,Murray,United States,,UT,,4/1/12,STEMI Committee Meeting,,Intermountain Medical Center,,,,,What's new in Pre-hospital STEMI,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJYnhQQm1kVTRrTm8,
 ,Murray,United States,,UT,,4/1/12,Emergency Nurse’s Association Salt Lake City Chapter,,Intermountain Medical Center,,,,,EKG Pearls and Pitfalls in the ED,,,https://drive.google.com/open?id=1YZJ51O6Z9G57JF_mGXWlwQagw-4hq3Uw,
 ,Sandy City Fire Department,United States,,UT,,1/1/13,Department In-service,,Sandy City Fire Department,,,,,STEMI Pearls and Pitfalls,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU,
 ,Murray,United States,,UT,,4/1/13,STEMI Committee Meeting,,Intermountain Medical Center,,,,,Best Practices for STEMI care at Intermountain Medical Center,,,,
@@ -11,7 +11,7 @@ abstract,city,country,postcode,region,street,date,event,event_url,location,proje
 ,Chicago,United States,,IL,,6/25/15,Social Media and Critical Care,,McCormick Place,,,,,A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJZ1g4c1VCenNMM2c,
 ,Murray,United States,,UT,,4/1/16,Intermountain Healthcare EMS Conference,,Intermountain Medical Center,,,,,NSTEMIs that need the cath lab now,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJOS1zNGx0ODV3UW8,https://www.youtube.com/watch?v=2jv00CvY-0Y
 ,Murray,United States,,UT,,4/1/16,Intermountain Healthcare EMS Conference,,Intermountain Medical Center,,,,,2015 Pre-hospital Research Update,,,https://drive.google.com/open?id=0B5v5sKtJ0CbJRlNpakVmZ01Ld2c,https://www.youtube.com/watch?v=OPfIDD5eWa8
-,Washington,United States,,DC,,10/29/17,American College of Emergency Physicians' Scientific Assembly,,Walter E. Washington Convention Center,,,,,An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients,,,https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83,
+,Washington,United States,,DC,,10/29/17,American College of Emergency Physicians' Scientific Assembly,,Walter E. Washington Convention Center,,,,,An Urban Fire Department's Experience with Left Ventricular Assist Device Patients,,,https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83,
 ,Marina Del Rey,United States,,CA,,9/7/18,California  ACEP,,Marina del Rey Marriott,,,,,Surviving Suicide - coping with the silent epidemic,,,https://drive.google.com/open?id=1kdBxyg3DZLUWzYafB1B9dpUaCUNn-K1l,
 ,Springfield,United States,,MA,,8/28/19,UMass Chan - Baystate EM Grand Rounds,,Baystate Medical Center,,,,,"NSTEMIs that need the cath lab now, Part 1	",,,https://drive.google.com/open?id=16IgTanwf2WmmR08PNlvYwCBcdSCL-TqT,
 ,West  Springfield,United States,,MA,,8/31/20,Controversies and Consensus in Emergency Medicine,http://www.controversies-and-consensus.com/,Marriott West Springfield,,,,,NSTEMIs that need the cath lab now!,,,https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing,https://www.youtube.com/watch?v=e3RKE7KHYIU
@@ -48,8 +48,8 @@ abstract,city,country,postcode,region,street,date,event,event_url,location,proje
 ,Springfield,United States,,MA,,12/1/24,,,Mercy Medical Center - Trinity Health of New England,,,,,Subtle STEMI Medical Management Conference,,,,
 ,Springfield,United States,,MA,,1/20/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Airway and Non-Invasive Ventilation Medical Management Conference,,,,https://www.youtube.com/watch?v=cvzh0O3i-RE
 ,Springfield,United States,,MA,,2/7/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Advanced Airway Medical Management Conference,,,,https://www.youtube.com/watch?v=pyZ_KSgoWfI
-,Springfield,United States,,MA,,2/17/25,UMass Chan - Baystate EMS Conference,,Baystate Medical Center,,,,,Research 201: Research Logistics,,,,
-,Springfield,United States,,MA,,3/3/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Cardiac Arrest Medical Management Conference: Airway and Compressions,,,,https://www.youtube.com/watch?v=CC97S1hvf14
-,Springfield,United States,,MA,,4/16/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Cardiac Arrest Medical Management Conference: Defibrillation and Post-ROSC,,,,https://www.youtube.com/watch?v=eYJZM5beNq0
+,Springfield,United States,,MA,,2/17/25,UMass Chan - Baystate EMS Conference,,Baystate Medical Center,,,,,Research 201 - Research Logistics,,,,
+,Springfield,United States,,MA,,3/3/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Cardiac Arrest Medical Management Conference - Airway and Compressions,,,,https://www.youtube.com/watch?v=CC97S1hvf14
+,Springfield,United States,,MA,,4/16/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Cardiac Arrest Medical Management Conference - Defibrillation and Post-ROSC,,,,https://www.youtube.com/watch?v=eYJZM5beNq0
 ,Springfield,United States,,MA,,5/30/25,,,Mercy Medical Center - Trinity Health of New England,,,,,BLS Medical Management Conference,,,,
-,Springfield,United States,,MA,,6/11/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Trauma Medical Management Conference: Primary and Secondary Survey,,,,https://www.youtube.com/watch?v=pVDxI1SZ2Wo
+,Springfield,United States,,MA,,6/11/25,,,Mercy Medical Center - Trinity Health of New England,,,,,Trauma Medical Management Conference - Primary and Secondary Survey,,,,https://www.youtube.com/watch?v=pVDxI1SZ2Wo
