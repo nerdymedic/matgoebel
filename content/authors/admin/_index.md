@@ -1,6 +1,6 @@
 ---
 # Mat Goebel MD MAS NRP
-title: EMS Physician
+title: EM Physician
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: EM Physician
+# role: EM Physician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
