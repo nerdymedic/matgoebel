@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: EMS Medical Director
+role: EM Physician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Mercy Medical Center
-    url: https://www.trinityhealthofne.org/location/mercy-medical-center
+  - name: Baystate Health
+    url: https://www.baystatehealth.org
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,8 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mgoebel@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/nerdymedic
   - icon: brands/youtube
     url: https://www.youtube.com/@nerdymedic
   - icon: brands/github
@@ -90,16 +88,20 @@ education:
     summary: Magna Cum Laude
 
 work:
+  - position: Emergency Medicine Physician
+    company_name: Baystate Health
+    date_start: 2026-07-05
+    date_end: ''
   - position: EMS Medical Director
     company_name: Mercy Medical Center
-    date_start: 2026-07-13
-    date_end: ''
+    date_start: 2025-07-13
+    date_end: 2026-07-01
   - position: Assistant Director, EMS Program and Clinical Response Team
     company_name: Mercy Medical Center
     company_url: ''
     company_logo: ''
     date_start: 2024-08-05
-    date_end: 2026-07-12
+    date_end: 2025-07-12
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -177,4 +179,4 @@ awards:
 
 ## About Me
 
-Mat Goebel is a board-certified emergency medicine physician, fellowship trained in research and EMS, at Mercy Medical Center. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.
+Mat Goebel is a board-certified emergency medicine and EMS physician, fellowship trained in research and EMS, at Baystate Health. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.
