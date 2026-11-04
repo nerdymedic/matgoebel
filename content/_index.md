@@ -50,7 +50,7 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
+      view: date-title-summary
       columns: 1
   - block: collection
     id: posts

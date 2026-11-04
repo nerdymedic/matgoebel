@@ -1,0 +1,10 @@
+/* Smaller name heading in the homepage biography block (default is text-5xl/6xl) */
+.resume-biography h1 {
+  font-size: 2.25rem !important; /* ~36px instead of 48/60px */
+  line-height: 1.15 !important;
+}
+
+/* Hide the "Professional Summary" heading row (icon + h2) above the bio text */
+.resume-biography .flex.items-center:has(> h2) {
+  display: none;
+}

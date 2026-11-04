@@ -1,6 +1,6 @@
 ---
 # Mat Goebel MD MAS NRP
-title: EM Physician
+title: Associate Regional EMS Medical Director
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -24,7 +24,7 @@ highlight_name: true
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Baystate Health
+  - name: Baystate Mercy Hospital
     url: https://www.baystatehealth.org
 
 # Social network links
@@ -88,10 +88,14 @@ education:
     summary: Magna Cum Laude
 
 work:
+  - position: Associate Regional EMS Medical Director
+    company_name: Baystate Mercy Hospital
+    date_start: 2026-11-01
+    date_end: ''
   - position: Emergency Medicine Physician
     company_name: Baystate Health
     date_start: 2026-07-05
-    date_end: ''
+    date_end: 2026-11-01
   - position: EMS Medical Director
     company_name: Mercy Medical Center
     date_start: 2025-07-13
@@ -179,4 +183,4 @@ awards:
 
 ## About Me
 
-Mat Goebel is a board-certified emergency medicine and EMS physician, fellowship trained in research and EMS, at Baystate Health. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.
+Mat Goebel is a board-certified emergency medicine and EMS physician, fellowship trained in research and EMS. He is currenly the Associate Regional EMS Medical Director at Baystate Mercy Hospital. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.
