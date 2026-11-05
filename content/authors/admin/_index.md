@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Mat Goebel is a board-certified emergency medicine and EMS physician, fellowship trained in research and EMS. He is currenly the Associate Regional EMS Medical Director at Baystate Mercy Hospital. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.
+Mat Goebel is a board-certified emergency medicine and EMS physician, fellowship trained in research and EMS. He is currenly the Associate Regional EMS Medical Director at Baystate Mercy Hospital. His research interests include EMS, STEMI, cardiac arrest, EKGs, human factors, cybersecurity, natural language processing, data visualization, and applications of machine learning.
