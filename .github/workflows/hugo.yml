@@ -53,6 +53,8 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          # Ensure Hugo can find the tailwindcss CLI installed by npm ci
+          PATH: ${{ github.workspace }}/node_modules/.bin:${{ env.PATH }}
         run: |
           hugo \
             --minify \
